@@ -1,3 +1,7 @@
 Add txt
+<<<<<<< HEAD
 a 
+=======
+a dev deeeeee
+>>>>>>> dev
 b dev
