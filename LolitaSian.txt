@@ -1,8 +1,3 @@
 Add txt
 a dev
 b dev
-c dev
-d
-e
-f
-g
